@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "name": "Student",
+    "picture": "images/Milli.png"
+  },
+  {
+    "id": 1,
+    "name": "Studio Renter",
+    "picture": "images/radar.png"
+  },
+  {
+    "id": 2,
+    "name": "Teacher",
+    "picture": "images/Murphy.png"
+  },
+
+  {
+    "id": 3,
+    "name": "Studio Owner",
+    "picture": "images/Riley.png"
+  }
+]

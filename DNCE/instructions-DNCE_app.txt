@@ -1,0 +1,21 @@
+instructions to run:
+
+open ganache and connect the workspace to metamask wallet
+
+open cmd / terminal
+go to the app contract path
+execute the folllowing commands:
+truffle init
+truffle compile
+truffle migrate --reset
+
+
+go to app-app path and exec foll commands
+
+npm init  (keep the default settings)
+npm install
+npm start
+
+you will be able to see the app at localhost:3000
+
+ 

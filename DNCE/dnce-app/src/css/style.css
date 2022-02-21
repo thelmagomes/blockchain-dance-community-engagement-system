@@ -1,0 +1,66 @@
+body {
+  padding: 50px;
+  background-color:thistle;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  color:hsla(259, 69%, 14%, 0.808);
+  
+  font: italic bold 30px/30px Monotype, serif;
+}
+
+.image1 {
+  width: 100%;
+  height: 210px;
+  object-fit: cover;
+  object-position: 100% 72%;
+  border: 2px solid black;
+}
+
+.sub-header {
+  color:rgb(243, 21, 169);
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: medium;
+  
+}
+
+#current_account {
+background-color:hsl(233, 18%, 90%);
+font-size: 16px;
+}
+
+.panel-title {
+  font-size:x-large;
+  font-family: 'Franklin Gothic medium', 'Arial Narrow', sans-serif;
+  color:darkslategray;
+  margin-left: -10px;
+}
+
+#reg {
+  color:firebrick;
+  text-align: center;
+}
+
+.button {
+  color: lightcoral;
+  background-color: #8064A2 !important;
+
+}
+
+#action {
+ color: maroon;
+ text-align: center;
+ font-size: 18px;
+}
+
+#unregister {
+  background-color:crimson;
+  color: wheat;
+  margin-left: 520px;
+}
+
+div.btn btn-success, div.panel-title {
+  display: none;
+  }
