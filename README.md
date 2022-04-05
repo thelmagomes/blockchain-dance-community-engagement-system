@@ -1,5 +1,5 @@
 # blockchain-dance-community-engagement-system
- An ERC-20 standard, NFT based decentralized Blockchain system for the dance community.
+ An ERC-20 standard, NFT based decentralized Blockchain system for the dance community, using DNCE tokens.
 
 The following was used to develop the Smart Contracts, application and testing: 
 - Application Smart Contract with ERC20 token 
